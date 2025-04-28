@@ -7,13 +7,13 @@ public class Exercicio06MaiorNumero {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Digite o primeiro numero:");
+		System.out.println("Digite o primeiro numero: ");
 		float numero1 = sc.nextFloat();
 
-		System.out.println("Digite o segundo numero:");
+		System.out.println("Digite o segundo numero: ");
 		float numero2 = sc.nextFloat();
 
-		System.out.println("Digite o terceiro numero:");
+		System.out.println("Digite o terceiro numero: ");
 		float numero3 = sc.nextFloat();
 
 		if (numero1 > numero2 && numero1 > numero3) {
