@@ -17,6 +17,7 @@ public class Fatorial {
 			
 		}
 		System.out.println(resultado);
+		sc.close();
 	}	
 
 }
