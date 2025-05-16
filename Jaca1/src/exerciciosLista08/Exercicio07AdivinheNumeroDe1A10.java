@@ -10,7 +10,13 @@ public class Exercicio07AdivinheNumeroDe1A10 {
 		double numeroAleatorio = Math.floor(Math.random() * 10) + 1;
 		int numero = 0;
 		
-		while(numeroAleatorio != numero) {}
+		System.out.println("Adivinhe o numero de 1 a 10");
+		
+		while(numeroAleatorio != numero) {
+			System.out.println("Digite o numero:");
+			numero = sc.nextInt();
+		}
+		System.out.println("Acertou!! O numero era " + numeroAleatorio);
 	}
 
 }
