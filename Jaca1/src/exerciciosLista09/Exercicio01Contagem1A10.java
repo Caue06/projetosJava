@@ -1,4 +1,4 @@
-package exercicioLista09;
+package exerciciosLista09;
 
 public class Exercicio01Contagem1A10 {
 	

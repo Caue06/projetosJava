@@ -15,7 +15,6 @@ public class Exercicio04AnoBissexto {
 				System.out.println(ano + " é um ano Bissexto.");
 			}else {
 				System.out.println(ano + " não é um ano Bissexto.");
-
 			}
 			return;
 		}
@@ -25,6 +24,7 @@ public class Exercicio04AnoBissexto {
 		}else {
 			System.out.println(ano + " não é um ano Bissexto.");
 		}
+		sc.close();
 		
 	}
 

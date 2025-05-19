@@ -18,6 +18,7 @@ public class Exercicio10SenhaCorreta {
 		}
 
 		System.out.println("Senha Correta!");
+		sc.close();
 	}
 
 }

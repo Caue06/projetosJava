@@ -20,6 +20,7 @@ public class Exercicio13MediaPonderada {
 		float mediaFinal = (primeiraNota * 2 + segundaNota * 3 + terceiraNota * 5) / 10;
 
 		System.out.println("A media final é: " + mediaFinal);
+		sc.close();
 
 	}
 

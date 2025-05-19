@@ -39,6 +39,7 @@ public class Exercicio05CategoriaIdade {
 			System.out.println("Idade Invalida, Digite novamente.");
 			break;
 		}
+		sc.close();
 	}
 
 }

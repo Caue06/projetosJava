@@ -16,6 +16,7 @@ public class Exercicio10VerificacaoDeDivisibilidade {
 		}else {
 			System.out.println("O número digitado não é divisivel por 3 e 5.");
 		}
+		sc.close();
 	}
 
 }

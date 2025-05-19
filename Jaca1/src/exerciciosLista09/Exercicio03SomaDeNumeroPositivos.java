@@ -1,4 +1,4 @@
-package exercicioLista09;
+package exerciciosLista09;
 
 import java.util.Scanner;
 
@@ -19,6 +19,7 @@ public class Exercicio03SomaDeNumeroPositivos {
 		} while (numero > -1);
 
 		System.out.println("A soma dos numeros digitados é: " + soma);
+		sc.close();
 	}
 
 }

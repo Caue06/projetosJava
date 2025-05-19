@@ -25,6 +25,7 @@ public class Exercicio05MediaClassificacao {
 		}else {
 			System.out.println("Recuperação");
 		}
+		sc.close();
 	}
 
 }
